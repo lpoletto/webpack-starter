@@ -3,6 +3,6 @@ import './styles.css';
 
 
 
-const nombre = 'Fernando';
+const nombre = 'Lautaro';
 
 saludar( nombre );
